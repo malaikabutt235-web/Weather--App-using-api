@@ -41,6 +41,6 @@ A responsive weather application built using HTML, CSS, and JavaScript.
 
 This project was created as part of an internship task to practice working with APIs and JavaScript.
 
-## Author
+## Author GitHub Pages deployment
 
 Malaika Sultan
